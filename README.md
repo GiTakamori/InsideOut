@@ -1,17 +1,14 @@
 Trabalho em grupo
 
 
-Contribuição pessoal:
-- Desenvolvimento da interface
-- Organização do repositório
-- Versionamento com GitHub
+Contribuí em partes da interface, estilização e animações utilizando HTML, CSS e JavaScript.
 
 
 # InsideOut
 
 # 📚 Catálogo de Emoções - Inspirado em Divertida Mente (Inside Out)
 
-Este é um projeto desenvolvido para a disciplina de [Web Front-end avançado] no curso de [Engenharia de Software] na [Unisagrado].
+Este é um projeto desenvolvido para a disciplina de Web Front-end avançado no curso de Engenharia de Software na Unisagrado.
 
 ## 🎯 Objetivo
 
