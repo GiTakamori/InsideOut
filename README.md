@@ -1,3 +1,10 @@
+Trabalho em grupo
+Contribuição pessoal:
+- Desenvolvimento da interface
+- Organização do repositório
+- Versionamento com GitHub
+
+
 # InsideOut
 
 # 📚 Catálogo de Emoções - Inspirado em Divertida Mente (Inside Out)
