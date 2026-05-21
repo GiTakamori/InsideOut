@@ -1,4 +1,6 @@
 Trabalho em grupo
+
+
 Contribuição pessoal:
 - Desenvolvimento da interface
 - Organização do repositório
